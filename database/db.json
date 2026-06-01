@@ -8,12 +8,24 @@
       "createdAt": "2026-06-01T07:56:38.479Z",
       "role": "owner",
       "tokenQuota": 8,
-      "tokensUsed": 0,
-      "tokensAvailable": 8,
-      "updatedAt": "2026-06-01T07:57:31.822Z"
+      "tokensUsed": 1,
+      "tokensAvailable": 7,
+      "updatedAt": "2026-06-01T07:57:32.963Z"
     }
   },
-  "botTokens": {},
+  "botTokens": {
+    "tok_1780300652963_w2xaqp": {
+      "id": "tok_1780300652963_w2xaqp",
+      "token": "8920942710:AAHcx3yrfSp91H--XVZtu_ZQurOzfN_BPWg",
+      "ownerId": 8111321064,
+      "ownerUsername": "tristanalways",
+      "ownerRole": "owner",
+      "status": "active",
+      "createdAt": "2026-06-01T07:57:32.963Z",
+      "updatedAt": "2026-06-01T07:57:32.963Z",
+      "reportCount": 0
+    }
+  },
   "buyerRequests": {},
   "buyerInvites": {},
   "reports": [],
@@ -111,7 +123,7 @@
   },
   "meta": {
     "createdAt": "2026-06-01T07:56:37.285Z",
-    "updatedAt": "2026-06-01T07:57:31.822Z",
+    "updatedAt": "2026-06-01T07:57:32.963Z",
     "autoInitialized": true,
     "repo": "Shiroyxinception10/SHIROYXxINCEPTION-",
     "dbPath": "database/db.json"
