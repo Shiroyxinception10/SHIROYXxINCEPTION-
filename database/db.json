@@ -1,0 +1,106 @@
+{
+  "users": {},
+  "botTokens": {},
+  "buyerRequests": {},
+  "buyerInvites": {},
+  "reports": [],
+  "roleCatalog": {
+    "full_up": {
+      "label": "FULL UP",
+      "quota": 1,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up",
+          "chatId": -1003908906743
+        }
+      ]
+    },
+    "reseller": {
+      "label": "RESSELER",
+      "quota": 3,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up",
+          "chatId": -1003908906743
+        },
+        {
+          "name": "RESELLER - Reseller",
+          "chatId": -1003908906743
+        }
+      ]
+    },
+    "partner": {
+      "label": "PARTNER",
+      "quota": 4,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up",
+          "chatId": -1003908906743
+        },
+        {
+          "name": "RESELLER - Reseller",
+          "chatId": -1003908906743
+        },
+        {
+          "name": "PT - Partner",
+          "chatId": -1003908906743
+        }
+      ]
+    },
+    "tk": {
+      "label": "TANGAN KANAN",
+      "quota": 5,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up",
+          "chatId": -1003908906743
+        },
+        {
+          "name": "RESELLER - Reseller",
+          "chatId": -1003908906743
+        },
+        {
+          "name": "PT - Partner",
+          "chatId": -1003908906743
+        },
+        {
+          "name": "TK - Tangan Kanan",
+          "chatId": -1003908906743
+        }
+      ]
+    },
+    "owner": {
+      "label": "OWNER",
+      "quota": 8,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up",
+          "chatId": -1003908906743
+        },
+        {
+          "name": "RESELLER - Reseller",
+          "chatId": -1003908906743
+        },
+        {
+          "name": "PT - Partner",
+          "chatId": -1003908906743
+        },
+        {
+          "name": "TK - Tangan Kanan",
+          "chatId": -1003908906743
+        },
+        {
+          "name": "OWNER - Owner",
+          "chatId": -1003908906743
+        }
+      ]
+    }
+  },
+  "meta": {
+    "createdAt": "2026-06-01T07:56:37.285Z",
+    "updatedAt": "2026-06-01T07:56:37.285Z",
+    "autoInitialized": true,
+    "repo": "Shiroyxinception10/SHIROYXxINCEPTION-",
+    "dbPath": "database/db.json"
+  }
+}
